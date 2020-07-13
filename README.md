@@ -1,11 +1,10 @@
 # Trabalho_AED_Imagens
-<<<<<<< HEAD
 
 Trabalho feito para a disciplina Algoritmos e Estrutura de dados, utilizando o conceito de lista ligada para modificar pixels específicos de uma imagem.
 
 Para executar o código é necessário escolher qual método de inserção de lista você vai usar, assim poderá observar a diferença de otimização entre os diferentes tipos de inserções de diferentes listas.
 
-###RESUMINDO:
+#RESUMINDO:
 
 	MODO 0: Lista ligada comum, pegando sempre como referência o começo da lista e percorrendo ela para inserir no final.
 
@@ -29,5 +28,3 @@ Obs: o código foi feito para um trabalho de uma disciplina, portanto não tem t
 
 Bom aproveito =).
 =======
-Trabalho feito para a disciplina Algoritmos e Estrutura de dados, utilizando o conceito de lista ligada para modificar pixels específicos de uma imagem
->>>>>>> ebf05bb64790ad4baaefa4adc5b8f95126196e0a
