@@ -26,5 +26,5 @@ Finalmente, o nome da nova imagem que será gerada com as modificações (não p
 
 Obs: o código foi feito para um trabalho de uma disciplina, portanto não tem todas as otimizações e boas práticas de programação, na verdade o algoritimo tem muito a ser trabalhado. Há um respositório com uma variação desse algoritimo.
 
-Bom aproveito =).
+Bom proveito =).
 =======
