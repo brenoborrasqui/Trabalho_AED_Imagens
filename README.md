@@ -4,7 +4,7 @@ Trabalho feito para a disciplina Algoritmos e Estrutura de dados, utilizando o c
 
 Para executar o código é necessário escolher qual método de inserção de lista você vai usar, assim poderá observar a diferença de otimização entre os diferentes tipos de inserções de diferentes listas.
 
-#RESUMINDO:
+RESUMINDO:
 
 	MODO 0: Lista ligada comum, pegando sempre como referência o começo da lista e percorrendo ela para inserir no final.
 
